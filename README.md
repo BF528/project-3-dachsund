@@ -15,6 +15,3 @@ Shreen Katyan - Analyst
 
 Vamshi Mallepalli - Biologist
 
-# Repository Contents
-
-Provide a brief description of each script/code file in this repo, what it does, and how to execute it
